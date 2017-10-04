@@ -16,12 +16,11 @@ Give examples
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
+1. 安裝 mechanize
+用 easy_install 或 pip 就可以安裝 python 版的 mechanize：
 ```
-Give the example
+easy_install mechanize
+pip install mechanize
 ```
 
 And repeat
