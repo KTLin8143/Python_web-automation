@@ -1,4 +1,4 @@
-# Project Title
+# Web automation
 
 Web automation using mechanize
 
