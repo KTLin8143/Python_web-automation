@@ -1,6 +1,6 @@
 # Project Title
 
-One Paragraph of project description goes here
+Web automation using mechanize
 
 ## Getting Started
 
@@ -8,7 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Python 2.7版本
+注意:若你使用的為python 3.xx版本，請使用MechanicalSoup
 
 ```
 Give examples
@@ -22,15 +23,15 @@ Give examples
 easy_install mechanize
 pip install mechanize
 ```
-
-And repeat
-
+安裝完成後，import mechanize 試試看:
 ```
-until finished
+Python 2.7.13 |Anaconda 4.3.1 (64-bit)| (default, Dec 19 2016, 13:29:36) [MSC v.1500 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+Anaconda is brought to you by Continuum Analytics.
+Please check out: http://continuum.io/thanks and https://anaconda.org
+>>> import mechanize
+>>>
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Running the tests
 
 Explain how to run the automated tests for this system
